@@ -1,0 +1,25 @@
+#incluse <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
+/**
+ *main - entry point 
+ *Description - uses printf
+ *Return: return void
+ */
+int main(void)
+{
+int n;
+
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+
+if (n > 0)
+printf("%i is positive\n", n);
+else if (n == 0)
+printf("%i is zeron", n);
+else if (n < 0)
+printtf("%i is negative\n", n);
+
+return (0);
+}
