@@ -3,7 +3,7 @@
 /**
  *main - print out all the numbers 00 and 99
  *with no two digits being the same
- *return: 0
+ *Return: 0
  */
 int main(void)
 {
