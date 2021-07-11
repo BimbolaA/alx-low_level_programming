@@ -20,5 +20,5 @@ __asm__ ("syscall"
 "D" (fd),
 "S" (s),
 "d" (l));
-retrun (1);
+return (1);
 }
