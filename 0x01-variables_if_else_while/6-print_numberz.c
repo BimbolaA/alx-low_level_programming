@@ -2,7 +2,7 @@
 
 /**
  *main - entry point
- *Rteurn: returns an integer
+ *Return: returns an integer
  */
 int main(void)
 {
