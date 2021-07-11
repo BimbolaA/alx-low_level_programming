@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-char aphabet_lowercase, alphabet_uppercase, newline;
+char alphabet_lowercase, alphabet_uppercase, newline;
 
 alphabet_lowercase = 'a';
 alphabet_uppercase = 'A';

@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-char aphabet, newline;
+char alphabet, newline;
 
 alphabet = 'a';
 newline = '\n';
