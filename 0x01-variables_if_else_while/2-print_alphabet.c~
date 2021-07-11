@@ -1,0 +1,22 @@
+#include <studio.h>
+
+/**
+ *main - entry point
+ *Description - prints alphabet
+ *Return: returns 0
+ */
+int main(void)
+{
+char aphabet, newline;
+
+alphabet = 'a';
+newline = '\n';
+while (alphabet <= 'z')
+{
+putchar (alphabet);
+alphabet++;
+}
+putchar (newline);
+  
+return (0);
+}

@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main - entry point 
+ *main - entry point
  *Description - uses printf
  *Return: return void
  */
