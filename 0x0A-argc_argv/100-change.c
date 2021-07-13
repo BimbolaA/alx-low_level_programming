@@ -29,7 +29,7 @@ return (coins);
 }
 
 /**
- * main - prints coins needed as change for an 
+ * main - prints coins needed as change for an
  * amount of money
  * @argc: argument count
  * @argv: argument vector
