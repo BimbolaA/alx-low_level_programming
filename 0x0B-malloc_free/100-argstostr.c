@@ -53,7 +53,7 @@ for (i = 0; i < ac; i++)
 for (j = 0; j < _strlen(av[i]); j++)
 {
 concat[k] = av[i][j];
-k++
+k++;
 }
 concat[k++] = '\n';
 }
