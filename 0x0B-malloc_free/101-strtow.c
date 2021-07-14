@@ -19,8 +19,8 @@ else
 {
 
 for (; s[i] != ' ' && s[i] != '\0'; i++)
-s++
-num++
+s++;
+num++;
 }
 }
 return (num);
