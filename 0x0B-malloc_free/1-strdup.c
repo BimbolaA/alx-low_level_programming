@@ -23,7 +23,7 @@ size++;
 
 str_copy = maloc(sizeof(char) * size); /* allocate memory */
 
-if (str-copy == NULL) /* validate memory */
+if (str_copy == NULL) /* validate memory */
 return (NULL);
 
 i = 0;
