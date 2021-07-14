@@ -21,7 +21,7 @@ while (*(str + i))
 size++, i++; /* add null terminator to size */
 size++;
 
-str_copy = maloc(sizeof(char) * size); /* allocate memory */
+str_copy = malloc(sizeof(char) * size); /* allocate memory */
 
 if (str_copy == NULL) /* validate memory */
 return (NULL);
