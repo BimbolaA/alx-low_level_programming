@@ -27,7 +27,7 @@ return (count);
  */
 char *argstostr(int ac, char **av)
 {
-char *concat:
+char *concat;
 int length = 0, i, j, k = 0;
 
 if (ac == 0 || av == NULL)
