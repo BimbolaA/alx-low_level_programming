@@ -14,7 +14,7 @@ int i, num = 0;
 for (i = 0; s[i] != '\0'; i++)
 {
 if (*s == ' ')
-s++
+s++;
 else
 {
 
@@ -46,13 +46,13 @@ free(string);
  */
 char **strtow(char *str)
 {
-int total = 0, i = 0, j = 0, lenght = 0;
+int total = 0, i = 0, j = 0, length = 0;
 char **words, *found_word;
 if (str == 0 || *str == 0)
 return (NULL);
 total = no_words(str);
 if (total == 0)
-return (NULL)
+return (NULL);
 words = malloc((total + 1) * sizeof(char *));
 if (words == 0)
 return (NULL);
