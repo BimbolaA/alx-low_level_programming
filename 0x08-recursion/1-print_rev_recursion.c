@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * _puts_recursion - prints a reversed string.
+ * _print_rev_recursion - prints a reversed string.
  * @s: string to be printed
  */
 void _print_rev_recursion(char *s)
