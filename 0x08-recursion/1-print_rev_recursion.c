@@ -4,7 +4,7 @@
  * _puts_recursion - prints a reversed string.
  * @s; string to be printed
  */
-void _puts_recursion(char *s)
+void _print_rev__recursion(char *s)
 {
 if (*s)
 {

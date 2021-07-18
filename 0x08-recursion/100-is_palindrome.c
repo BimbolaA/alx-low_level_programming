@@ -28,7 +28,7 @@ if (str[s] != str[e])
 return (0);
 if (s < e + 1)
 return (isPalRec(str, s + 1, e - 1));
-return (1)
+return (1);
 }
 
 /**

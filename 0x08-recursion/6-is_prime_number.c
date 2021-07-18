@@ -6,7 +6,7 @@
  * @i: iterator
  * Return: 1 if true, 0 if false
  */
-int isPrim(int n, int i)
+int isPrime(int n, int i)
 {
 if (i == 1)
 return (1);
