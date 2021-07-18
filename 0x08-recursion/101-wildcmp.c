@@ -4,7 +4,7 @@
  * wildcmp - compares two strings and returns 1 or 0
  * @s1: string 1
  * @s2: string 2
- * Return 1 if true or 0 if false
+ * Return: 1 if true or 0 if false
  */
 int wildcmp(char *s1, char *s2)
 {

@@ -16,8 +16,8 @@ return (1 + _strlen_recursion(++s));
 /**
  * isPalRec - replaces is_palindrome
  * @str: input string
- * @s; start index
- * @e; end index
+ * @s: start index
+ * @e: end index
  * Return: 1 if true, 0 if false
  */
 int isPalRec(char str[], int s, int e)
