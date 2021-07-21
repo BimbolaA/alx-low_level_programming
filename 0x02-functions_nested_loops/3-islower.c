@@ -7,8 +7,5 @@
  */
 int _islower(int c)
 {
-if (c >= 'a' && c <= 'z')
-return;
-else
-return (0);
+return (c >= 97 && c <= 122);
 }
