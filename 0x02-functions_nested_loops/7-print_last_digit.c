@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
  * _abs - returns 1 if n is loweercase and 0 otherwise
- * @n: integer to be tested 
+ * @n: integer to be tested
  * Return: abs(n)
  */
 int _abs(int n)
