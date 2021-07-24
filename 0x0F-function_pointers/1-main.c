@@ -15,7 +15,7 @@ printf("%d\n", elem);
 /**
  * print_elem_hex - prints in hexadecimal
  * @elem: interger to print
- * 
+ *
  * Return: Nothing
  */
 void print_elem_hex(int elem)

@@ -5,7 +5,7 @@
 /**
  *get_op_func - selects the appropriate function
  *@s: argument
- *@Return: a pointer to the corresponding function
+ *Return: a pointer to the corresponding function
  */
 int (*get_op_func(char *s))(int, int)
 {
