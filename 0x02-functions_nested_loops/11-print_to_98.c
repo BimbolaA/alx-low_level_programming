@@ -1,5 +1,5 @@
 #include <stdio.h>
-#incluse "holberton.h"
+#include "holberton.h"
 
 /**
  * print_to_98 - prints numers to 98
