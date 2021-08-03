@@ -2,7 +2,7 @@
 
 /**
  * get_nodeint_at_index - returns the nth node
- * @head: pointer to head 
+ * @head: pointer to head
  * @index: index of value to be returned
  * Return: address of node at input index
  */
